@@ -1,0 +1,29 @@
+[
+    {
+        "question": "What type of software is primarily discussed in the entries?",
+        "options": [
+            "A. Graphics and Visualization Tools",
+            "B. Operating Systems and Compatibility",
+            "C. Communication Software",
+            "D. None of the above"
+        ]
+    },
+    {
+        "question": "Which operating system is frequently mentioned in relation to compatibility issues?",
+        "options": [
+            "A. Windows 3.1",
+            "B. Mac OS",
+            "C. Linux",
+            "D. None of the above"
+        ]
+    },
+    {
+        "question": "What is a common theme regarding software performance in the discussions?",
+        "options": [
+            "A. Speed and efficiency of rendering",
+            "B. User interface design",
+            "C. Data storage solutions",
+            "D. None of the above"
+        ]
+    }
+]

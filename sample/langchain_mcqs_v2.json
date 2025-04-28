@@ -1,0 +1,29 @@
+[
+    {
+        "question": "What sport is primarily discussed in the first post?",
+        "options": [
+            "A. Baseball",
+            "B. Basketball",
+            "C. Hockey",
+            "D. None of the above"
+        ]
+    },
+    {
+        "question": "Which player is mentioned in relation to the NHL's all-time goal scorers?",
+        "options": [
+            "A. Jack Morris",
+            "B. Wayne Gretzky",
+            "C. Mike Trambley",
+            "D. None of the above"
+        ]
+    },
+    {
+        "question": "What complaint is raised regarding ESPN's coverage?",
+        "options": [
+            "A. Too much focus on hockey",
+            "B. Ignoring baseball highlights",
+            "C. Cutting off overtime for baseball news",
+            "D. None of the above"
+        ]
+    }
+]

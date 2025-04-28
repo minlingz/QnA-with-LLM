@@ -8,7 +8,7 @@ Our approach involves the following steps:
 3. **Answer Questions**: Finally, we use the LLM to answer questions based on the context provided. The LLM can be prompted to answer questions based on the content of the documents, and it can also generate answers in a specific format.
 
 ### Summarize a Corpus of Documents
-The first step is to summarize the content of the documents.The goal is to create a concise representation of the information that can be used for generating questions and answers. It can be achived by sending the entire corpus or just a subset. In this implementation, we experiment by sending the entire document to the LLM and asking it to summarize the content. This works well when the size of the corpus is within the limit a LLM can handle. 
+The first step is to summarize the content of the documents.The goal is to create a concise representation of the information that can be used for generating questions and answers. It can be achived by sending the entire corpus or just a subset. 
 
 - In one experiment, we use the LLM chat to summarize the content of the documents by sending it the entire documents. Here is the response returned by the LLM chat:
 "I’ve taken a look at your uploaded document (documents_masked.json). It contains a diverse set of text entries from what appears to be sports discussions, possibly from forums or mailing lists, mostly centered around hockey and baseball, with occasional player statistics, commentary, and historical data."
