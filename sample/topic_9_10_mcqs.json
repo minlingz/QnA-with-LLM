@@ -1,0 +1,29 @@
+[
+    {
+        "question": "What sport is primarily discussed in the majority of the posts?",
+        "options": [
+            "A. Baseball",
+            "B. Hockey",
+            "C. Basketball",
+            "D. None of the above"
+        ]
+    },
+    {
+        "question": "Which player is mentioned in relation to a significant injury update?",
+        "options": [
+            "A. Nolan Ryan",
+            "B. Steve Howe",
+            "C. Eli Manning",
+            "D. None of the above"
+        ]
+    },
+    {
+        "question": "What type of statistics are frequently referenced in the discussions?",
+        "options": [
+            "A. Player batting averages",
+            "B. Goalie save percentages",
+            "C. Team standings",
+            "D. None of the above"
+        ]
+    }
+]

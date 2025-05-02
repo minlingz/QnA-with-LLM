@@ -1,0 +1,67 @@
+[
+    {
+        "id": 0,
+        "original_index": 0,
+        "topic_id": 10,
+        "category": "rec.sport.hockey",
+        "text": "\n\nI am sure some bashers of Pens fans are pretty confused about the lack\nof any kind of posts about the recent Pens massacre of the Devils. Actually,\nI am  bit puzzled too and a bit relieved. However, I am going to put an end\nto non-PIttsburghers' relief with a bit of praise for the Pens. Man, they\nare killing those Devils worse than I thought. Jagr just showed you why\nhe is much better than his regular season stats. He is also a lot\nfo fun to watch in the playoffs. Bowman should let JAgr have a lot of\nfun in the next couple of games since the Pens are going to beat the pulp out of Jersey anyway. I was very disappointed not to see the Islanders lose the final\nregular season game.          PENS RULE!!!\n\n",
+        "cleaned_text": "sure bashers pen fan pretty confused lack kind post recent pen massacre devil actually bit puzzled bit relieved however going put end non pittsburghers relief bit praise pen man killing devil worse thought jagr showed much better regular season stats also lot fun watch playoff bowman let jagr lot fun next couple game since pen going beat pulp jersey anyway disappointed see islander lose final regular season game pen rule",
+        "answers": {
+            "1": 1,
+            "2": 3,
+            "3": 3
+        }
+    },
+    {
+        "id": 1,
+        "original_index": 7,
+        "topic_id": 10,
+        "category": "rec.sport.hockey",
+        "text": "\n[stuff deleted]\n\nOk, here's the solution to your problem.  Move to Canada.  Yesterday I was able\nto watch FOUR games...the NJ-PITT at 1:00 on ABC, LA-CAL at 3:00 (CBC), \nBUFF-BOS at 7:00 (TSN and FOX), and MON-QUE at 7:30 (CBC).  I think that if\neach series goes its max I could be watching hockey playoffs for 40-some odd\nconsecutive nights (I haven't counted so that's a pure guess).\n\nI have two tv's in my house, and I set them up side-by-side to watch MON-QUE\nand keep an eye on BOS-BUFF at the same time.  I did the same for the two\nafternoon games.\n\nBtw, those ABC commentaters were great!  I was quite impressed; they seemed\nto know that their audience wasn't likely to be well-schooled in hockey lore\nand they did an excellent job.  They were quite impartial also, IMO.\n\n",
+        "cleaned_text": "stuff deleted solution problem move canada yesterday able watch four game pitt abc cal cbc buff bos tsn fox mon que cbc think series go max could watching hockey playoff odd consecutive night counted pure guess two house set side side watch mon que keep eye bos buff time two afternoon game btw abc commentaters great quite impressed seemed know audience likely well schooled hockey lore excellent job quite impartial also imo",
+        "answers": {
+            "1": 1,
+            "2": 3,
+            "3": 3
+        }
+    },
+    {
+        "id": 2,
+        "original_index": 8,
+        "topic_id": 10,
+        "category": "rec.sport.hockey",
+        "text": "\n\n\nYeah, it's the second one.  And I believe that price too.  I've been trying\nto get a good look at it on the Bruin-Sabre telecasts, and wow! does it ever\nlook good.  Whoever did that paint job knew what they were doing.  And given\nFuhr's play since he got it, I bet the Bruins are wishing he didn't have it:)\n",
+        "cleaned_text": "yeah second one believe price trying get good look bruin sabre telecast wow ever look good whoever paint job knew given fuhr play since got bet bruin wishing",
+        "answers": {
+            "1": 1,
+            "2": 3,
+            "3": 3
+        }
+    },
+    {
+        "id": 3,
+        "original_index": 24,
+        "topic_id": 10,
+        "category": "rec.sport.hockey",
+        "text": "I don't know the exact coverage in the states.  In Canada it is covered\nby TSN, so maybe ESPN will grab their coverage!  I don't know!\n\nAs for the picks\nOttawa picks #1 which means it is almost 100% that Alexander Daigle will \ngo #1. He'll either stay or be traded in Montreal or Quebec.  IMO I would\ntake Kariya.  He should alot of leadership in the NCAA and so far in\nthe World Championships.  Daigle didn't show this for his junior team.\n\nSan Jose will then get Kariya.\n\nTampa Bay will either go for a russian Kozlov (I think that's it) or a \n    defenseman Rob Niedemeyer (probably spelt the last name wrong)\n\nBecause of expansion I won't go further but I will name other of the\nblue chip prospects\n\n   - Chris Gratton\n   - Chris Pridham\n   - a swedish player who I can't remember his name\n\nDraft Order\n-----------\n1) Ottawa\n2) San Jose\n3) Tampa Bay\n4) South Florida or Anahiem\n5) South Florida or Anahiem\n6) Hartford\n7) Edmonton\n8) Dallas\n9) NY Rangers\n10) Philadelphia\n\nthe 8th thru 10th picks could be wrong - I don't have the standings here\nand am guessing \n\n(In my mind there are 8 top notch prospects in the draft, with Kariya \n leading the way but not going #1)",
+        "cleaned_text": "know exact coverage state canada covered tsn maybe espn grab coverage know pick ottawa pick mean almost alexander daigle either stay traded montreal quebec imo would take kariya alot leadership ncaa far world championship daigle show junior team san jose get kariya tampa bay either russian kozlov think defenseman rob niedemeyer probably spelt last name wrong expansion name blue chip prospect chris gratton chris pridham swedish player remember name draft order ottawa san jose tampa bay south florida anahiem south florida anahiem hartford edmonton dallas ranger philadelphia thru pick could wrong standing guessing mind top notch prospect draft kariya leading way going",
+        "answers": {
+            "1": 1,
+            "2": 3,
+            "3": 3
+        }
+    },
+    {
+        "id": 4,
+        "original_index": 33,
+        "topic_id": 9,
+        "category": "rec.sport.baseball",
+        "text": "\nBe patient. He has a sore shoulder from crashing into the wall.\nThe Cards will give him all the time he needs to come around.\nHe is their full time centerfielder.\nHe will not however steal as often this year as he is hitting\nclean-up.",
+        "cleaned_text": "patient sore shoulder crashing wall card give time need come around full time centerfielder however steal often year hitting clean",
+        "answers": {
+            "1": 0,
+            "2": 3,
+            "3": 3
+        }
+    }
+]
