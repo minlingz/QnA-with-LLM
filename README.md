@@ -126,3 +126,26 @@ It is obvious that the LLM is capable of answering questions based on the contex
 ## Summary
 This repository provides a simple implementation of a question-answering system using a large language model (LLM). The system is designed to answer questions based on a given context, which can be a text file or any other source of information. The workflow involves summarizing a corpus of documents, creating multiple-choice questions (MCQs), and answering questions using the LLM. The LLM models evolve rapidly, the limits of the context are increasing, the performance is improving, and the prompt engineering is becoming more and more important and sophisticated to specific tasks.
 The examples provided in this repository demonstrate the capabilities of LLMs in generating questions and answers based on the context. This repository serves as a starting point for building more advanced question-answering systems using LLMs, LangChain and aisuite.
+
+
+## Security
+### Secure the API key
+- The API key is stored in the `.env` file. This file is not included in the repository. This can be done by adding the file to the `.gitignore` file.
+
+```python
+# Environments
+.env
+```
+- Example of the `.env` file:
+```python
+OPENAI_API_KEY=********************
+```
+- The API key is loaded using the `os` and `load_dotenv` library in Python.
+```python
+import os
+from dotenv import load_dotenv
+
+load_dotenv()  # This loads the environment variables from .env file
+
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+```
